@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="35px" height="41px" viewBox="0 0 35 41" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="filter_1">
+      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.0627451 0 0 0 0 0.7254902 0 0 0 0 0.5058824 0 0 0 1 0" />
+    </filter>
+    <image width="35" height="41" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAApCAYAAAC/QpA/AAAABHNCSVQICAgIfAhkiAAABPBJREFUWIW1mE2MU1UUx3/ntZ0OwcCYtgwOGowKmhgDk4yLESOpMelrYNyArDSRhARcGD+iJgYTaoIEDQu/NwYlJrogITEyQ990U40SMxHiUiCQ4I4ZWr4EnJm297h4r512+l6nZdr/pu/de+45/3vOveecV8FxrgMDNOIOt24l2LXrP5YDf91VFLHteP1AGBhA9TCWNQWA6giwn1WrDpDNztbJztHf/wXJ5O0O6DTqrsKY5xF5fbFwGADLmiKV+snbzcMAiLwMlL3nMKrrmJ39A/ilAzKNuqvIZn29FQ5UUi5voVy+Rl9fDNUHEfmtIxL3gGAyANHod8CO2rtlBcW/K7BazpZK+7CsYVS3AWDMjV6Sae2Z/v4SqsuzoJoim01jWaG60ZV+eluTqVSOAjsQcd87D1MR2IcIPsavLB5oHaZweO+ywmTbcVR3e8+CbQsivwKfYdsPNJlrqUy13JHxekxOHgKeQXUtUE2AoHofIo8xObkZyJNKfdgemeWESXUnUABOA3cBqc0ZcxGRh4CXgDbJhMN7MeYglcoQIhMdhimBG46vfGez2XcRebvBXKCqUChLuTwPgEhfByTgzJkIhcIAIoVAGcuaQbWpNjVC5JJ38n9GdbZuvEI4/FdbZAoF14hqMVDGmKuIhBkfv5/t26/7kzHmX0QgGj1MMtk6LI7zJLAH235r0YZiqEKlMh241rKKqIJIArgO7tW+gupYnZB7/+fmxvx0NED1aeBNnw0NAhAKBYepUil49mI104gcAF5lYuIpAFKpc8CPwCGOH1/hqyiXG8Jx/kbkCACOcxnH+bpuQ26Y4vFgMitWTDfIAhZ9fd8C5wmFPqkJqu4HEqxe/YavokjkGnAM+N2TPwZM1OaNiQE3GRkpBZJx+6I5VAcXyCSTZUTeA2wc5wUA0unLwJeovs/Jk3EfRbPY9sfACaBEOp3BtifqJNYAVwOJLKCISJ1nAFKpcdym6QiZjDsWjR4EykQiBwJVlUonUN3SNG5ZiZbXegEznhfryACIvANsYnT0FQCSyRuIHAT2kctt8FU1NnaXdPrPpnHVeMtrvYCriKxpJpNKnUX1B+AjcrkNTEysR2TcY3+kDcX1iCHSVJV9UMDN1IvIABizH9UhjLlAKHQZYy4AQ8CLZLPPdkBmbVueUS0AtTA1Jr1t2/7Bce4AU6i67hcZBHajeqcDMjHP0FKYoc4zfrWpAoyTTn8KQC63GWN2Ew530vLFaec2uYfc58x0C/n8AO4mZ3znHWdTLUG6oVxJPt/fGzKlkut2ywo6M48Dr3HqVBTLcrPw7dux3pCpVOLer/+ZMWa6JleViUQGe0OmWmuqtWcxIhE3fNFoolZIvTXdJ+PWmvnAb/LTp8+juodI5Bw3b7qhNCYOS7Wd94YYbjLzRyZjgKO1d8cpVju+XngmTtBNWiDwDZOT1X6pUC0J3SfjJrGlcswIxjwHuFnYq9zdD5PIGkRalwKRs8AtoKEx782ZUb3UUiKV2lN7dsvGE9CrM6Ma3IgvhlsSeham9cBeHGdnW/KqCbzK3V0y+fwAc3MhYJpqf7w0tgJDZDJWd8nMzz8KgOr3pNOft7Umm/0Akc2Mjm4MIrMVx3GfKpV1tQ//pWDMRkTcPycdJ9neItZ7ax9pJqM6hcgwMAzgEblYK3CtMQOUvLXDbZIBKGFZxf8BuiXQ0KRYe3IAAAAASUVORK5CYII=" id="img_1" />
+  </defs>
+  <g id="icon-3" filter="url(#filter_1)">
+    <use xlink:href="#img_1" fill="#FFFFFF" stroke="none" />
+  </g>
+</svg>
