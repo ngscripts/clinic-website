@@ -256,14 +256,18 @@ section {
 }
 
 .staff .box-container .box .para-box {
-   padding: 2rem 0;
-   height: 225px;
-   overflow: auto;
+  margin: 2rem 0;
+  height: 170px;
+  overflow: auto;
 }
+
+.staff .box-container .box .para-box:hover {
+}
+
 .staff .box-container .box p {
   /* padding: 2rem 0; */
   line-height: 2;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   color: var(--light-color);
   margin-bottom: 0;
 }
