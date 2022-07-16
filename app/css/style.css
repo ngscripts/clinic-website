@@ -261,9 +261,6 @@ section {
   overflow: auto;
 }
 
-.staff .box-container .box .para-box:hover {
-}
-
 .staff .box-container .box p {
   /* padding: 2rem 0; */
   line-height: 2;
