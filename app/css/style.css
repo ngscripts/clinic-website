@@ -246,6 +246,7 @@ section {
   border-radius: 1.8rem;
   box-shadow: var(--box-shadow);
   padding: 2rem;
+  align-self: start !important;
 }
 
 .staff .box-container .box img {
