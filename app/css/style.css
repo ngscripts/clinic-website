@@ -22,16 +22,16 @@
   text-transform: capitalize;
 }
 
-*::-webkit-scrollbar {
+body::-webkit-scrollbar {
   height: 0.5rem;
   width: 1rem;
 }
 
-*::-webkit-scrollbar-track {
+body::-webkit-scrollbar-track {
   background-color: transparent;
 }
 
-*::-webkit-scrollbar-thumb {
+body::-webkit-scrollbar-thumb {
   background-color: var(--blue);
 }
 
@@ -246,17 +246,22 @@ section {
   border-radius: 1.8rem;
   box-shadow: var(--box-shadow);
   padding: 2rem;
-  align-self: start !important;
 }
 
 .staff .box-container .box img {
   height: 17rem;
   width: 17rem;
   border-radius: 50%;
+  margin-bottom: 12px;
 }
 
+.staff .box-container .box .para-box {
+   padding: 2rem 0;
+   height: 225px;
+   overflow: auto;
+}
 .staff .box-container .box p {
-  padding: 2rem 0;
+  /* padding: 2rem 0; */
   line-height: 2;
   font-size: 1.5rem;
   color: var(--light-color);
